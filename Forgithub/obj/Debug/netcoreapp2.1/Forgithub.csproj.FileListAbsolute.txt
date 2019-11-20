@@ -1,0 +1,11 @@
+C:\Users\shital\Desktop\Forgithub\Forgithub\bin\Debug\netcoreapp2.1\Forgithub.deps.json
+C:\Users\shital\Desktop\Forgithub\Forgithub\bin\Debug\netcoreapp2.1\Forgithub.runtimeconfig.json
+C:\Users\shital\Desktop\Forgithub\Forgithub\bin\Debug\netcoreapp2.1\Forgithub.runtimeconfig.dev.json
+C:\Users\shital\Desktop\Forgithub\Forgithub\bin\Debug\netcoreapp2.1\Forgithub.dll
+C:\Users\shital\Desktop\Forgithub\Forgithub\bin\Debug\netcoreapp2.1\Forgithub.pdb
+C:\Users\shital\Desktop\Forgithub\Forgithub\obj\Debug\netcoreapp2.1\Forgithub.csprojAssemblyReference.cache
+C:\Users\shital\Desktop\Forgithub\Forgithub\obj\Debug\netcoreapp2.1\Forgithub.csproj.CoreCompileInputs.cache
+C:\Users\shital\Desktop\Forgithub\Forgithub\obj\Debug\netcoreapp2.1\Forgithub.AssemblyInfoInputs.cache
+C:\Users\shital\Desktop\Forgithub\Forgithub\obj\Debug\netcoreapp2.1\Forgithub.AssemblyInfo.cs
+C:\Users\shital\Desktop\Forgithub\Forgithub\obj\Debug\netcoreapp2.1\Forgithub.dll
+C:\Users\shital\Desktop\Forgithub\Forgithub\obj\Debug\netcoreapp2.1\Forgithub.pdb
